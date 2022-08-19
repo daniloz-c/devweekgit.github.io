@@ -100,6 +100,7 @@
 .about-me-contents {
     font-size: 18px;
     color: #eeeeee;
+<<<<<<< HEAD
 }
 
 .experience-contents,
@@ -135,4 +136,6 @@
 .awards-desc {
     font-size: 16px;
     padding-left: 5px;
+=======
+>>>>>>> 4b4e22ef5532bd7d03c6751f4444d23d2d79ab47
 }
